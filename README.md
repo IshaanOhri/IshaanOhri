@@ -48,4 +48,6 @@
   </a>
 </p>
 
+<span align="center">
 ![](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"])
+  </span>
