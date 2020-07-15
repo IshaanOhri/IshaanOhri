@@ -36,7 +36,7 @@
 </p>
 
 <code>
-  I am Ishaan Ohri, a 3rd year student persuing BTech CSE at VIT, Vellore. I am a full-stack <strong>Android</strong> app developer with proficiency in <strong>Node.js</strong>. I have a strong knowleadge of <strong>Data Structures</strong>.
+  I am Ishaan Ohri, a 3rd year undergraduate at VIT, Vellore, majoring in <strong>Computer Science</strong>. I am a full-stack <strong>Android</strong> app developer with proficiency in <strong>Node.js</strong>. I have a strong knowleadge of <strong>Data Structures</strong>. Being a quick learner I have always been passionate to learn more and have had the zeal for knowledge.
 </code>
 
 
