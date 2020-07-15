@@ -48,4 +48,4 @@
   </a>
 </p>
 
-[![]](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"])
+![](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"])
