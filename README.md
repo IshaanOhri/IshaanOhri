@@ -48,8 +48,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/IshaanOhri">
-    <img src="https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"]">
-  </a>
-</p>
+[![]](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"])
