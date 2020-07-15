@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://github.com/IshaanOhri">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/intro.gif" width="500">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ishaanohri/">
     <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/linkedin.png" width="30" height="30" hspace="20">
   </a>
@@ -27,7 +33,7 @@
 </p>
 
 <code>
-  I am Ishaan Ohri
+  I am Ishaan Ohri, a 3rd year student persuing BTech CSE at VIT, Vellore. I am a proficient full-stack Android app developer with proficiency in Node.js
 </code>
 
 
@@ -36,7 +42,6 @@
     <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
   </a>
 </p>
-
 
 ![](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"])
 
