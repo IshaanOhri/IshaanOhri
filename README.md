@@ -20,5 +20,23 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false)
+<p align="left">
+  <a href="https://github.com/IshaanOhri">
+    <img src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309" height="50">
+  </a>
+</p>
+
+<code>
+  I am Ishaan Ohri
+</code>
+
+
+<p align="center">
+  <a href="https://github.com/IshaanOhri">
+    <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
+  </a>
+</p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"])
 
