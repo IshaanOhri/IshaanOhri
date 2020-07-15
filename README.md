@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=true)
-
+![](https://github-readme-stats.vercel.app/api/?username=IshaanOhri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <p align="center">
  <h2 align="center">Github Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
