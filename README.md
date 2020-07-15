@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/IshaanOhri">
     <img src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309" height="50">
   </a>
@@ -48,5 +48,7 @@
   </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"])
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=IshaanOhri&show_icons=false&&hide=["issues"])
+</p>
 
