@@ -26,9 +26,9 @@
   </a>
 </p>
 
----
+***
 
-<br><br>
+<br>
 
 <p align="left">
   <a href="https://github.com/IshaanOhri">
