@@ -47,7 +47,8 @@
     <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
   </a>
 </p>
-
+<p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+  </p>
