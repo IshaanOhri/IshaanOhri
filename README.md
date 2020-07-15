@@ -20,4 +20,6 @@
   </a>
 </p>
 
-<img src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309g" height="50" hspace="20">
+<a href="https://github.com/IshaanOhri">
+    <img align="left" src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309g" height="50">
+</a></br>Hey there
