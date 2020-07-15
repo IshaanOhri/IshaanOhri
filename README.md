@@ -26,6 +26,8 @@
   </a>
 </p>
 
+---
+
 <br><br>
 
 <p align="left">
@@ -35,7 +37,7 @@
 </p>
 
 <code>
-  I am Ishaan Ohri, a 3rd year student persuing BTech CSE at VIT, Vellore. I am a proficient full-stack Android app developer with proficiency in Node.js
+  I am Ishaan Ohri, a 3rd year student persuing BTech CSE at VIT, Vellore. I am a proficient full-stack **Android** app developer with proficiency in **Node.js**
 </code>
 
 
