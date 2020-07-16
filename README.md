@@ -1,28 +1,28 @@
 <p align="center">
   <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/cpp.gif" width="800">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets//cpp.gif" width="800">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishaanohri/">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/linkedin.png" width="30" height="30" hspace="20">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
   </a>
 
   <a href="mailto:ishaan99ohri@gmail.com">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/mail.png" width="30" height="30" hspace="20">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mail.png" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://stackoverflow.com/users/11712463/ishaan-ohri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/stackoverflow.png" width="30" height="30" hspace="20">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/stackoverflow.png" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://www.instagram.com/ohri_8/">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/instagram.png" width="30" height="30" hspace="20">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/instagram.png" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/github.png" width="30" height="30" hspace="20">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github.png" width="30" height="30" hspace="20">
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/IshaanOhri">
-    <img src="https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309" height="50">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/hello.gif" height="50">
   </a>
 </p>
 
@@ -44,9 +44,32 @@
 
 <p align="center">
   <a href="https://github.com/IshaanOhri">
-    <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/coding.gif" width="500">
   </a>
 </p>
+
+<h3 align="center">
+  <code>
+    Tech stacks used
+  </code>
+</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/ts.png" height=30 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nodejs.png" height=50 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nginx.png" height=30 hspace=20>
+</p>
+<p align="center">
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/android.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/cpp.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/python.png" height=40 hspace=20>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/redis.png" height=40 hspace=20>
+</p>
+
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/IshaanOhri">
