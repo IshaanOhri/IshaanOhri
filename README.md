@@ -73,7 +73,7 @@
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.png" height=40 hspace=20>
 </p>
 <p align="center">
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/newrelic.png" height=40>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/newrelic.png" height=30>
 </p>
 
 <br>
