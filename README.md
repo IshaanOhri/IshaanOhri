@@ -25,6 +25,9 @@
     <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github.png" width="30" height="30" hspace="20">
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IshaanOhri" alt="IshaanOhri" />
+</p>
 
 <br>
 <br>
