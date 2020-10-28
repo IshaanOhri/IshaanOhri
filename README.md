@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets//cpp.gif" width="800">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets//cpp.gif" width="600">
   </a>
 </p>
 
@@ -44,10 +44,9 @@
   </code>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/coding.gif" width="500">
+    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/coding.gif" height="250">
   </a>
 </p>
 
