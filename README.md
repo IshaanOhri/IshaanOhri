@@ -67,11 +67,11 @@
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/python.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/cpp.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/redis.png" height=40 hspace=10>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sql.png" height=50 hspace=10>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sql.png" height=40 hspace=10>
 </p>
 
 <p align="center">
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=50 hspace=10>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.svg" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/git.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github.svg" height=40 hspace=10>
