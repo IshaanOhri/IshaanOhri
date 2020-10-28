@@ -51,7 +51,7 @@
 
 <h3 align="center">
   <code>
-    Tech stacks used
+    Tools and languages used
   </code>
 </h3>
 
@@ -66,6 +66,9 @@
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/javascript.svg" height=30 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/python.png" height=30 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/cpp.png" height=30 hspace=20>
+</p>
+
+<p align="center">
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/redis.png" height=30 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sql.png" height=30 hspace=20>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=30 hspace=20>
