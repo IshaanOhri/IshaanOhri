@@ -61,6 +61,7 @@
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nodejs.svg" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/nginx.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/docker.png" height=40 hspace=10>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/googlecloud.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/android.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/typescript.svg" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/javascript.svg" height=40 hspace=10>
