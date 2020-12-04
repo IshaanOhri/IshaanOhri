@@ -65,13 +65,15 @@
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/android.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/typescript.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/javascript.png" height=40 hspace=10>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/html.png" height=40 hspace=10>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/css.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/python.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/cpp.png" height=40 hspace=10>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/redis.png" height=40 hspace=10>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=40 hspace=10>
 </p>
 
 <p align="center">
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/redis.png" height=40 hspace=10>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sql.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sketch.png" height=40 hspace=10>
