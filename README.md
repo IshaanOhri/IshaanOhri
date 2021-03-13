@@ -76,7 +76,7 @@
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mongodb.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sql.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/firebase.png" height=40 hspace=10>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sketch.png" height=40 hspace=10>
+<!--   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/sketch.png" height=40 hspace=10> -->
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/git.png" height=40 hspace=10>
   <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github2.png" height=40 hspace=10>
 </p>
